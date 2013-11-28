@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>ASPNETandVSWebTooling</Id>
+  <Technologies>
+    <Technology>Visual Studio</Technology>
+    <Technology>ASP.NET MVC</Technology>
+    <Technology>ASP.NET</Technology>
+    <Technology>HTML 5</Technology>
+  </Technologies>
+  <Author>
+    <Blog>http://weblogs.asp.net/jgalloway</Blog>
+    <Email>jon.galloway@microsoft.com</Email>
+    <Name>Jon Galloway</Name>
+  </Author>
+  <Description>
+    We'll start out by explaining the One ASP.NET experience in Visual Studio 2013, showing how to create hybrid web applications. Next, we'll introduce new features for web developers in Visual Studio 2013 and Web Essentials, explaining how Visual Studio is the best editor for HTML, CSS and JavaScript as well as your back end code. We'll also look at some new features across the ASP.NET platform including new Bootstrap templates, the new scaffolding system, and the new membership and identity system.
+  </Description>
+  <Document RemoveSpeakerNotes="true">.\2-ASPNET-and-VS-Web-Tooling.pptx</Document>
+  <Title>ASP.NET and VS Web Tooling</Title>
+  <Version>1.0.0</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>
